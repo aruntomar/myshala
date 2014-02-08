@@ -37,7 +37,10 @@ asa
 
 
 are kay timepass ahe.
+<<<<<<< HEAD
 >>>>>>> b0a2c0a9e05623afdbf47efa48f8a0811647275e
+=======
+>>>>>>> 3c6a2ae5677cea337aa681aa8f3db41d04f23361
 =======
  
 >>>>>>> 29e38a76a86a14d26e0c533e41e04fb2cc99218a
