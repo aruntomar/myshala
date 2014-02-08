@@ -1,1 +1,0 @@
-Mazya Jeevanach Meech Vakrachalak 
