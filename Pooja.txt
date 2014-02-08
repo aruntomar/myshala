@@ -3,3 +3,6 @@ Hi
 session 2
 
 you need practice 
+
+git rocks :)
+
