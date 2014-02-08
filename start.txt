@@ -4,3 +4,10 @@ hey guys where r u?
 come back fast
 hey guys where r u?
 come back fast
+<<<<<<< HEAD
+
+hiiiiiiiiiiii
+
+
+=======
+>>>>>>> dedbd156087043b51c4450bac13271beedf4abcb
