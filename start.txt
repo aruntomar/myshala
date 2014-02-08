@@ -1,6 +1,10 @@
 hi,
 welcome to GIT training
 
+<<<<<<< HEAD
 hey guys where r u?
 come back fast
+=======
+
+>>>>>>> 256107adad68836e733e9807519f6c45c2a640d9
 
