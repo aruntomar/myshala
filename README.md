@@ -10,6 +10,7 @@ Hi this is SachinT.... :)
 Happy Weekend(Abhishek) 
 
 myshala git training 
+<<<<<<< HEAD
 
 
 Welcome to day2. Hope everyone is excited and still interested :)
@@ -37,3 +38,6 @@ asa
 
 are kay timepass ahe.
 >>>>>>> b0a2c0a9e05623afdbf47efa48f8a0811647275e
+=======
+ 
+>>>>>>> 29e38a76a86a14d26e0c533e41e04fb2cc99218a
