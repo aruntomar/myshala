@@ -57,16 +57,16 @@ asa
 are kay timepass ahe.
 <<<<<<< HEAD
 <<<<<<< HEAD
->>>>>>> c847718faa9ad3e8d3ebd3f41203de758d262324
-=======
-=======
 <<<<<<< HEAD
 >>>>>>> b0a2c0a9e05623afdbf47efa48f8a0811647275e
 =======
 >>>>>>> 3c6a2ae5677cea337aa681aa8f3db41d04f23361
 =======
 >>>>>>> 150adbd4561b44df4687a95bb1e4581a4f43a82a
->>>>>>> 22b0dcf9821e83bb82445e8cb1e6d7d1e9c432d1
+=======
+>>>>>>> c847718faa9ad3e8d3ebd3f41203de758d262324
+=======
+>>>>>>> 189ed281f101f10a4c5adb051f3635d0a7b2665c
 =======
  
 >>>>>>> 29e38a76a86a14d26e0c533e41e04fb2cc99218a
