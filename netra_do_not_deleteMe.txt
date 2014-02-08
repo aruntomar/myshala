@@ -1,6 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 :)shopping la kadhi jaych??
 =======
+
+
+>>>>>>> 20f8dcac5d170e19201325b1be40633fb8b1569e
+=======
+s
+:)shopping la kadhi jaych??
 :)
 
 
@@ -11,4 +18,11 @@ hellooooooo
 lunch time.......:)
 
 
+<<<<<<< HEAD
 >>>>>>> fcfd18d6c29e1480d3ade11c630bbc94244bcc40
+=======
+
+
+:)shopping la kadhi jaych??
+
+>>>>>>> 20f8dcac5d170e19201325b1be40633fb8b1569e
