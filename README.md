@@ -3,6 +3,7 @@ myshala
 Happy Weekend(Abhishek) 
 
 myshala git training 
+<<<<<<< HEAD
 
 
 Welcome to day2. Hope everyone is excited and still interested :)
@@ -38,4 +39,10 @@ asa
 =======
 
 are kay timepass ahe.
+<<<<<<< HEAD
 >>>>>>> c847718faa9ad3e8d3ebd3f41203de758d262324
+=======
+=======
+ 
+>>>>>>> 29e38a76a86a14d26e0c533e41e04fb2cc99218a
+>>>>>>> 248549d3c9f74ede9b8857fd54692e873c3c8ddc
