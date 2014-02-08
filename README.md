@@ -5,7 +5,10 @@ Happy Weekend(Abhishek)
 myshala git training 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 150adbd4561b44df4687a95bb1e4581a4f43a82a
 
 
 Welcome to day2. Hope everyone is excited and still interested :)
